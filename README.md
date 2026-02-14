@@ -2,7 +2,7 @@
 
 **`Software Engineer | ABAP & iOS Developer`**
 
-Me chamo Tales Monção de Souza. Com sólida base em ABAP e no ecossistema SAP, trago a lógica de sistemas corporativos para meus projetos. Atualmente, estou focado na transição de carreira para o desenvolvimento mobile, estudando Swift para criar aplicações nativas modernas. Busco unir a robustez do backend com a inovação do universo iOS.
+Me chamo Tales Monção de Souza. Com sólida experiência no desenvolvimento ABAP, trago a lógica de sistemas corporativos para meus projetos. Atualmente, estou focado na transição de carreira para o desenvolvimento mobile, estudando Swift para criar aplicações nativas modernas. Busco unir a robustez do backend com a inovação do universo iOS.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/talessouzam)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/talessouza/)
